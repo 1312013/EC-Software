@@ -10,6 +10,8 @@
 
 *Topic: Quà và đồ trang trí Halloween*
 
+Khi đẩy lên host em bị lỗi này và em sửa nhiều cách nhưng không được!
+
     Server Error in '/' Application.
 
     Compilation Error
