@@ -4,8 +4,8 @@
 
 *Email: 1312013@student.hcmus.edu.vn*
 
-*Link host: http://1312013.somee.com/ *
+*Link host: http://1312013.somee.com/*
 
-*Source : nopCommerce *
+*Source : nopCommerce*
 
 *Topic: Quà và đồ trang trí Halloween*
